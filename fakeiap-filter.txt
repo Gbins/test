@@ -1,0 +1,73 @@
+HOST-KEYWORD,api.lightricks.com,REJECT
+# Vizzywig2020
+HOST,ec2-52-34-190-224.us-west-2.compute.amazonaws.com,Fake iAP 1
+# MusiXmatch
+HOST,apic.musixmatch.com,Fake iAP 1
+#JibJab
+HOST,origin-prod-phoenix.jibjab.com,Fake iAP 1
+# Termius
+HOST,api.termius.com,Fake iAP 1
+# PDF Expert
+HOST,license.pdfexpert.com,Fake iAP 1
+# Gyroscope
+HOST,api.gyrosco.pe,Fake iAP 1
+# Kine Master
+HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP 1
+# YouTube Music
+HOST,youtubei.googleapis.com,Fake iAP 1
+# Over
+HOST,api.overhq.com,Fake iAP 1
+# Bright
+HOST,engbright.com,Fake iAP 1
+# Ulike
+HOST,commerce-i18n-api.faceu.mobi,Fake iAP 1
+# Blinkist
+HOST,api.blinkist.com,Fake iAP 1
+# lingokids
+HOST,api.lingokids.com,Fake iAP 1
+# adGuard
+HOST,mobile-api.adguard.com,Fake iAP 1
+# Boom Music
+HOST,apimboom2.globaldelight.net,Fake iAP 1
+# Musicalm
+HOST,www.peacefulsoundsapp.com,Fake iAP 1
+HOST,subscription.aresframework.com,Fake iAP 1
+# Update Nichi
+HOST,mp.bybutter.com,Fake iAP 1
+HOST,pay.wecut.com,Fake iAP 1
+# 1Blocker, Loopsie, 
+HOST,api.revenuecat.com,Fake iAP 1
+HOST,api.faceapp.io,Fake iAP 1
+HOST,api.unfold.app,Fake iAP 1
+HOST,asla.joytunes.com,Fake iAP 1
+HOST,graph.nhaccuatui.com,Fake iAP 1
+HOST,accounts.elevateapp.net,Fake iAP 1
+HOST,pixmagicapp.com,Fake iAP 1
+HOST,api.busuu.com,Fake iAP 1
+HOST,bmall.camera360.com,Fake iAP 1
+HOST,entitlements.adobe.io,Fake iAP 1
+HOST,photos.adobe.io,Fake iAP 1
+HOST,api-intl.mr.meitu.com,Fake iAP 1
+HOST-SUFFIX,api.memrise.com,Fake iAP 1
+HOST-SUFFIX,api.picsart.com,Fake iAP 1
+HOST-SUFFIX,api.mondlylanguages.com,Fake iAP 1
+HOST,vsco.co,Fake iAP 1
+HOST-SUFFIX,pool.elsanow.io,Fake iAP 1
+HOST-SUFFIX,api.calm.com,Fake iAP 1
+HOST-SUFFIX,www.calm.com,Fake iAP 1
+HOST-SUFFIX,api.indicative.com,Fake iAP 1
+HOST-SUFFIX,lambda.us-east-1.amazonaws.com,Fake iAP 1
+#Instasize
+HOST,api.instasize.com,Fake iAP 1
+HOST,purchases.ws.pho.to,Fake iAP 1
+HOST,nomo.dafork.com,Fake iAP 1
+HOST,cloudapp.aiarlabs.com,Fake iAP 1
+HOST,buy.itunes.apple.com,Fake iAP 1
+HOST,live.infltr.us,Fake iAP 1
+HOST,owa.videoshowiosglobalserver.com,Fake iAP 1
+HOST,app.algoriddim.com,Fake iAP 1
+HOST,viva.v21xy.com,Fake iAP 1
+HOST,viva-asia1.vvbrd.com,Fake iAP 1
+HOST,api.getmimo.com,Fake iAP 1
+HOST,api.interpreter.caiyunai.com,Fake iAP 1
+FINAL,DIRECT
