@@ -70,5 +70,5 @@ HOST,viva.v21xy.com,Fake iAP 1
 HOST,viva-asia1.vvbrd.com,Fake iAP 1
 HOST,api.getmimo.com,Fake iAP 1
 HOST,api.interpreter.caiyunai.com,Fake iAP 1
-HOST-KEYWORD,http://book.haoapp8.cn/API/programming/v4/,Fake iAP 1
+HOST-KEYWORD,book.haoapp8.cn/API/programming/v4/,Fake iAP 1
 FINAL,DIRECT
