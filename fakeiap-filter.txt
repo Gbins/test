@@ -69,5 +69,5 @@ HOST,app.algoriddim.com,Fake iAP 1
 HOST,viva.v21xy.com,Fake iAP 1
 HOST,viva-asia1.vvbrd.com,Fake iAP 1
 HOST,api.getmimo.com,Fake iAP 1
-HOST-SUFFIX,api.interpreter.caiyunai.com,Fake iAP 1
+HOST-KEYWORD,api.interpreter.caiyunai.com/v1/user,Fake iAP 1
 FINAL,DIRECT
